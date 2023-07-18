@@ -16,7 +16,6 @@ def decode_char(char)
 end
 
 # theo
-# separated by 2 spaces
 # def decode_word(string)
 #   string.split('  ').map { |word| word.split.map { |char| decode_char(char) }.join }.join(' ')
 # end
