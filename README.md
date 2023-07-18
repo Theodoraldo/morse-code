@@ -78,6 +78,12 @@ Clone this repository to your desired folder:
 - Twitter: [@myro_dev](https://twitter.com/myro_dev)
 - LinkedIn: [kimitawanjohi](https://linkedin.com/in/kimitawanjohi)
 
+👤 **A.I.M. Shihab Uddin Khan**
+
+- GitHub: [@shihabrafio](https://github.com/shihabrafio)
+- Twitter: [@shihab_uddin19](https://twitter.com/shihab_uddin19)
+- LinkedIn: [Shihab Uddin Khan](https://www.linkedin.com/in/shihab-uddin-khan-45620a16a/)
+
 <!-- TODO ADD OTHER CONTRIBUTERS -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
