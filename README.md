@@ -84,6 +84,12 @@ Clone this repository to your desired folder:
 - Twitter: [@shihab_uddin19](https://twitter.com/shihab_uddin19)
 - LinkedIn: [Shihab Uddin Khan](https://www.linkedin.com/in/shihab-uddin-khan-45620a16a/)
 
+ 👤 **Theodore Asimeng-Osei**
+
+- GitHub: [@githubhandle](https://github.com/Theodoraldo)
+- Twitter: [@twitterhandle](https://twitter.com/AsimengOse33947)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/theodoreasimeng/)
+
 <!-- TODO ADD OTHER CONTRIBUTERS -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
